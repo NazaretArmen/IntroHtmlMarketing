@@ -1,2 +1,4 @@
 # IntroHtmlMarketing
-## Es el esqueleto de un rama 2 html básico
+
+## Es el esqueleto de un html fundamental
+
